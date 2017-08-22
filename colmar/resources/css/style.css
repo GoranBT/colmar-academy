@@ -105,15 +105,14 @@ h1 {
   width: 100%;
   padding: 8px;
   border-radius: 10px;
-}
-
-.start a {
   color: white;
   font-weight: bold;
   text-decoration: none;
+  display: flex;
+  justify-content: center;
 }
 
-.start a:hover {
+.start:hover {
   color: blue;
 }
 
